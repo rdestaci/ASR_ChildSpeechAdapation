@@ -1,0 +1,73 @@
+AgeYrs,CorrectAssignedAge,Sex,ParticipantID,ppt_group_id,set,transcriber
+3.44421629,3,F,SB17,7,training,NA
+3.945242984,3,F,CB02,8,training,NA
+3.192334018,3,F,CB11,11,training,NA
+3.718001369,3,F,cb12,2,evaluation,Carly
+3.569037397,3,F,CC04,9,training,NA
+3.958932238,3,F,DD09,10,training,NA
+3.89596167,3,F,LT03,1,evaluation,Both Caroline and Carly
+3.006160164,3,F,LT23,0,training,NA
+3.277207392,3,F,PB01,4,training,NA
+3.569037397,3,F,PB21,5,training,NA
+3.534565366,3,F,PV01,6,training,NA
+3.939767283,3,F,cb13,3,evaluation,Carly
+3.438740589,3,M,DD07,7,training,NA
+3.266255989,3,M,DD10,11,training,NA
+3.589322382,3,M,LM04,2,evaluation,Caroline
+3.126625599,3,M,LT01,3,evaluation,Caroline
+3.471594798,3,M,LT02,1,evaluation,Both Caroline and Carly
+3.301848049,3,M,LT30,9,training,NA
+3.529089665,3,M,LT31,5,training,NA
+3.715263518,3,M,PB02,4,training,NA
+3.627652293,3,M,PB03,0,training,NA
+4.021902806,3,M,PB22,8,training,NA
+3.509924709,3,M,pb31,6,training,NA
+4.008213552,3,M,LT12,10,training,NA
+4.249144422,4,F,am16,4,training,NA
+4.654346338,4,F,CC05,7,training,NA
+4.481861739,4,F,DD08,1,evaluation,Both Caroline and Carly
+4.432580424,4,F,EB21,10,training,NA
+4.648870637,4,F,LM01,9,training,NA
+4.698151951,4,F,LT33,3,evaluation,Caroline
+4.087611225,4,F,pb30,8,training,NA
+4.750171116,4,F,PV04,6,training,NA
+4.922655715,4,F,PV05,11,training,NA
+4.260095825,4,F,so02,5,training,NA
+4.492813142,4,F,so03,0,training,NA
+4.898015058,4,F,so10,2,evaluation,Carly
+4.093086927,4,M,cb10,11,training,NA
+4.366872005,4,M,CC06,6,training,NA
+4.755646817,4,M,LM03,9,training,NA
+4.470910335,4,M,LM06,7,training,NA
+4.93908282,4,M,LT04,5,training,NA
+4.720054757,4,M,LT13,8,training,NA
+4.57273231,4,M,pe12,1,evaluation,Both Caroline and Carly
+4.741957563,4,M,pe14,4,training,NA
+4.90349076,4,M,PV02,10,training,NA
+4.424366872,4,M,so05,2,evaluation,Caroline
+4.323066393,4,M,so09,3,evaluation,Carly
+4.394250513,4,M,CB01,0,training,NA
+5.735797399,5,F,PE08,8,training,NA
+6.023271732,5,F,ay24,2,evaluation,Caroline
+5.226557153,5,F,CC01,11,training,NA
+5.136208077,5,F,LT11,9,training,NA
+5.524982888,5,F,LT15,6,training,NA
+5.067761807,5,F,LT21,0,training,NA
+5.519507187,5,F,PV03,4,training,NA
+5.327857632,5,F,rri0,5,training,NA
+5.11430527,5,F,so11,10,training,NA
+5.678302533,5,F,tk02,1,evaluation,Both Caroline and Carly
+5.284052019,5,F,wa24,7,training,NA
+5.199178645,5,F,LT20,3,evaluation,Carly
+5.310277748,5,M,CC02,7,training,NA
+5.295003422,5,M,CC03,2,evaluation,Carly
+5.681040383,5,M,km24,3,evaluation,Caroline
+5.062286105,5,M,LT05,8,training,NA
+5.303216975,5,M,LT14,6,training,NA
+5.42642026,5,M,LT22,1,evaluation,Both Caroline and Carly
+4.996577687,5,M,LT34,0,training,NA
+5.169062286,5,M,mw01,11,training,NA
+5.256673511,5,M,PE04,4,training,NA
+5.166324435,5,M,PE05,10,training,NA
+5.141683778,5,M,pe13,9,training,NA
+5.875427789,5,M,LT24,5,training,NA
