@@ -14,11 +14,11 @@ For this evaluation of ASR and forced alignment models, we adapt pre-trained mod
 
 This dataset consists of speech recordings of 24 single-word utterances, collected through the administration of the Goldman-Fristoe Test of Articulation (GFTA) on male and female child speakers ranging from ages 3 to 5 years old. In accordance with Insitutional Review Board approval, this dataset is not available for public use.
 
-## ASR: Evaluating methods to fine-tune Wav2Vec2 for ASR
+### ASR: Evaluating methods to fine-tune Wav2Vec2 for ASR
 
 To address relatively poor performance of Wav2Vec2 ASR on specifically child-produced single word utterances, we fine-tune Wav2Vec2 using the data.
 
-## Forced Alignment: Adapting Montreal Forced Aligner to our data
+### Forced Alignment: Adapting Montreal Forced Aligner to our data
 
 To adapt Montreal Forced Aligner, we use the model's `mfa adapt` workflow. More details of this functionality can be found on [Montreal Forced Aligner user guide](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/adapt_acoustic_model.html). To optimize this adaptation for child speech, we build a custom dictionary mapping common variabilities of phone realizations to canonical transcriptions. 
 
