@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to improve transcription accuracy of automatic speech recognition forced alignment systems (specifically Montreal Forced Aligner and Charsiu) to child speech, and examine the overall efficiency of using these tools for research purposes.
+This project aims to improve transcription accuracy of automatic speech recognition (ASR) and forced alignment systems (specifically Montreal Forced Aligner and Charsiu) to child speech, and examine the overall efficiency of using these tools for research purposes.
 
 This a graduate capstone project for the Compuational Social Science M.S. program.
 
@@ -10,15 +10,17 @@ This a graduate capstone project for the Compuational Social Science M.S. progra
 
 ### Data
 
-We adapt both Montreal Forced Aligner and Charsiu to a 72-participant child speech dataset.
+For this evaluation of ASR and forced alignment models, we adapt pre-trained models using 72-participant child speech dataset.
 
-This dataset consists of speech recordings of 24 single-word utterances, collected through the administration of the Goldman-Fristoe Test of Articulation (GFTA) on male and female child speakers ranging from ages 3 to 5 years old.
+This dataset consists of speech recordings of 24 single-word utterances, collected through the administration of the Goldman-Fristoe Test of Articulation (GFTA) on male and female child speakers ranging from ages 3 to 5 years old. In accordance with Insitutional Review Board approval, this dataset is not available for public use.
 
-# Model Adaptation
+## ASR: Evaluating methods to fine-tune Wav2Vec2 for ASR
 
-To adapt Charsiu, we built a custom Python pipeline to employ a Low Rank Adaptation (LoRA) to the pre-trained attention layers of the existing neural network system, trained on our dataset.
+To address relatively poor performance of Wav2Vec2 ASR on specifically child-produced single word utterances, we fine-tune Wav2Vec2 using the data.
 
-To adapt Montreal Forced Aligner, we use the model's `mfa adapt` workflow. More details of this functionality can be found on [Montreal Forced Aligner user guide](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/adapt_acoustic_model.html).
+## Forced Alignment: Adapting Montreal Forced Aligner to our data
+
+To adapt Montreal Forced Aligner, we use the model's `mfa adapt` workflow. More details of this functionality can be found on [Montreal Forced Aligner user guide](https://montreal-forced-aligner.readthedocs.io/en/latest/user_guide/workflows/adapt_acoustic_model.html). To optimize this adaptation for child speech, we build a custom dictionary mapping common variabilities of phone realizations to canonical transcriptions. 
 
 ## Results and Evaluation
 
