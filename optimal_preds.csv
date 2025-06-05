@@ -1,0 +1,400 @@
+file_name,ppt_id,transcription,transcription_phones,lr1e5_pred,1e5_phones,1e5_edit_distance
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_sand.wav,pe12,sand,"['S', 'AE1', 'N', 'D']",sand,"['S', 'AE1', 'N', 'D']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_fox.wav,pe12,fox,"['F', 'AA1', 'K', 'S']",fox,"['F', 'AA1', 'K', 'S']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_chick.wav,so09,chick,"['CH', 'IH1', 'K']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_one.wav,so09,one,"['W', 'AH1', 'N']",why,"['W', 'AY1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_rainbow.wav,so05,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",raow,"['R', 'AA1', 'W', 'OW0']",0.8
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_fan.wav,so05,fan,"['F', 'AE1', 'N']",in,"['IH0', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_rock.wav,so09,rock,"['R', 'AA1', 'K']",rock,"['R', 'AA1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_sun.wav,so09,sun,"['S', 'AH1', 'N']",five,"['F', 'AY1', 'V']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_leg.wav,so05,leg,"['L', 'EH1', 'G']",red,"['R', 'EH1', 'D']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_sun.wav,so05,sun,"['S', 'AH1', 'N']",fine,"['F', 'AY1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_thumb.wav,pe12,thumb,"['TH', 'AH1', 'M']",some,"['S', 'AH1', 'M']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_wing.wav,so09,wing,"['W', 'IH1', 'NG']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_chick.wav,so05,chick,"['CH', 'IH1', 'K']",o,['OW1'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_leg.wav,so09,leg,"['L', 'EH1', 'G']",land,"['L', 'AE1', 'N', 'D']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_ramp.wav,so05,ramp,"['R', 'AE1', 'M', 'P']",ramp,"['R', 'AE1', 'M', 'P']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_socks.wav,pe12,socks,"['S', 'AA1', 'K', 'S']",socks,"['S', 'AA1', 'K', 'S']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_lamp.wav,pe12,lamp,"['L', 'AE1', 'M', 'P']",way ump,"['W', 'EY1', 'AH1', 'M', 'P']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_run.wav,so05,run,"['R', 'AH1', 'N']",i,['AY1'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_ship.wav,pe12,ship,"['SH', 'IH1', 'P']",ship,"['SH', 'IH1', 'P']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_chick.wav,pe12,chick,"['CH', 'IH1', 'K']",s,"['EH1', 'S']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_window.wav,so05,window,"['W', 'IH1', 'N', 'D', 'OW0']",wanow,"['W', 'AA1', 'N', 'OW0']",0.4
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_one.wav,pe12,one,"['W', 'AH1', 'N']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_lamp.wav,so05,lamp,"['L', 'AE1', 'M', 'P']",lamp,"['L', 'AE1', 'M', 'P']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_run.wav,so09,run,"['R', 'AH1', 'N']",ra,"['R', 'AA1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_chip.wav,so05,chip,"['CH', 'IH1', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_ship.wav,so05,ship,"['SH', 'IH1', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_lock.wav,so05,lock,"['L', 'AA1', 'K']",losk,"['L', 'AO1', 'S', 'K']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_chip.wav,so09,chip,"['CH', 'IH1', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_window.wav,pe12,window,"['W', 'IH1', 'N', 'D', 'OW0']",whengo,"['W', 'EH1', 'NG', 'G', 'OW0']",0.6
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_sick.wav,so05,sick,"['S', 'IH1', 'K']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_ramp.wav,pe12,ramp,"['R', 'AE1', 'M', 'P']",wan,"['W', 'AA1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_wing.wav,so05,wing,"['W', 'IH1', 'NG']",we,"['W', 'IY1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_shoe.wav,so05,shoe,"['SH', 'UW1']",you,"['Y', 'UW1']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_sand.wav,so05,sand,"['S', 'AE1', 'N', 'D']",nd,"['D', 'IY1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_leg.wav,pe12,leg,"['L', 'EH1', 'G']",erhead,"['ER1', 'HH', 'EH2', 'D']",1.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_rock.wav,so05,rock,"['R', 'AA1', 'K']",no,"['N', 'OW1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_red.wav,so05,red,"['R', 'EH1', 'D']",rab,"['R', 'AE1', 'B']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_fan.wav,pe12,fan,"['F', 'AE1', 'N']",faon,"['F', 'AW1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_zoo.wav,so05,zoo,"['Z', 'UW1']",no,"['N', 'OW1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_window.wav,so09,window,"['W', 'IH1', 'N', 'D', 'OW0']",mornin do,"['M', 'AO1', 'R', 'N', 'IH0', 'N', 'D', 'UW1']",1.2
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_rock.wav,pe12,rock,"['R', 'AA1', 'K']",wha,"['W', 'AA1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_red.wav,so09,red,"['R', 'EH1', 'D']",rat,"['R', 'AE1', 'T']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_sand.wav,so09,sand,"['S', 'AE1', 'N', 'D']",fir,"['F', 'ER1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_ring.wav,so09,ring,"['R', 'IH1', 'NG']",rn,"['R', 'AH1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_ring.wav,so05,ring,"['R', 'IH1', 'NG']",green,"['G', 'R', 'IY1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_sick.wav,so09,sick,"['S', 'IH1', 'K']",so,"['S', 'OW1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_rainbow.wav,pe12,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",ainbow,"['EY1', 'N', 'B', 'OW2']",0.2
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_socks.wav,so05,socks,"['S', 'AA1', 'K', 'S']",sau,"['S', 'AO1']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_rainbow.wav,so09,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",ranwe,"['R', 'AE1', 'N', 'W', 'AA0']",0.6
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_shoe.wav,so09,shoe,"['SH', 'UW1']",hi,"['HH', 'AY1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_lock.wav,so09,lock,"['L', 'AA1', 'K']",lock,"['L', 'AA1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_thumb.wav,so05,thumb,"['TH', 'AH1', 'M']",fa,"['F', 'AA1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_fox.wav,so05,fox,"['F', 'AA1', 'K', 'S']",lok,"['L', 'AA1', 'K']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_wing.wav,pe12,wing,"['W', 'IH1', 'NG']",win,"['W', 'IH1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_chip.wav,pe12,chip,"['CH', 'IH1', 'P']",se,"['S', 'AW2', 'TH', 'IY1', 'S', 'T']",2.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_shoe.wav,pe12,shoe,"['SH', 'UW1']",huge,"['HH', 'Y', 'UW1', 'JH']",1.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_thumb.wav,so09,thumb,"['TH', 'AH1', 'M']",an,"['AE1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_socks.wav,so09,socks,"['S', 'AA1', 'K', 'S']",sac,"['S', 'AE1', 'K']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so053participant_one.wav,so05,one,"['W', 'AH1', 'N']",winly,"['W', 'IH1', 'N', 'L', 'IY0']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_red.wav,pe12,red,"['R', 'EH1', 'D']",rat,"['R', 'AE1', 'T']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_fox.wav,so09,fox,"['F', 'AA1', 'K', 'S']",fa,"['F', 'AA1']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_sun.wav,pe12,sun,"['S', 'AH1', 'N']",sign,"['S', 'AY1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_lock.wav,pe12,lock,"['L', 'AA1', 'K']",wa,"['W', 'AA1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_ring.wav,pe12,ring,"['R', 'IH1', 'NG']",ragin,"['R', 'AE1', 'JH', 'IH0', 'N']",1.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_zoo.wav,pe12,zoo,"['Z', 'UW1']",sail,"['S', 'EY1', 'L']",1.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1pe125participant_run.wav,pe12,run,"['R', 'AH1', 'N']",why,"['W', 'AY1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4M/K1so095participant_zoo.wav,so09,zoo,"['Z', 'UW1']",here,"['HH', 'IY1', 'R']",1.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_window.wav,TK02,window,"['W', 'IH1', 'N', 'D', 'OW0']",window,"['W', 'IH1', 'N', 'D', 'OW0']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_one.wav,lt20,one,"['W', 'AH1', 'N']",one,"['W', 'AH1', 'N']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_one.wav,TK02,one,"['W', 'AH1', 'N']",one,"['W', 'AH1', 'N']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_red.wav,TK02,red,"['R', 'EH1', 'D']",rak,"['R', 'AE1', 'K']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_lamp.wav,lt20,lamp,"['L', 'AE1', 'M', 'P']",ron,"['R', 'AA1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_fan.wav,lt20,fan,"['F', 'AE1', 'N']",fine,"['F', 'AY1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_ring.wav,TK02,ring,"['R', 'IH1', 'NG']",wing,"['W', 'IH1', 'NG']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_rock.wav,lt20,rock,"['R', 'AA1', 'K']",wak,"['W', 'AA1', 'K']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_wing.wav,AY24,wing,"['W', 'IH1', 'NG']",win,"['W', 'IH1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_ramp.wav,lt20,ramp,"['R', 'AE1', 'M', 'P']",round,"['R', 'AW1', 'N', 'D']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_sun.wav,TK02,sun,"['S', 'AH1', 'N']",a fine,"['AH0', 'F', 'AY1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_shoe.wav,TK02,shoe,"['SH', 'UW1']",a shoe,"['AH0', 'SH', 'UW1']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_wing.wav,TK02,wing,"['W', 'IH1', 'NG']",ring herbak,"['R', 'IH1', 'NG', 'HH', 'ER1', 'B', 'AE0', 'K']",2.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_chick.wav,lt20,chick,"['CH', 'IH1', 'K']",sock,"['S', 'AA1', 'K']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_run.wav,AY24,run,"['R', 'AH1', 'N']",or i,"['AO1', 'R', 'AY1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_rock.wav,AY24,rock,"['R', 'AA1', 'K']",rac,"['R', 'AE1', 'K']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_rock.wav,TK02,rock,"['R', 'AA1', 'K']",ronk,"['R', 'AA1', 'NG', 'K']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_sand.wav,lt20,sand,"['S', 'AE1', 'N', 'D']",sant,"['S', 'AE1', 'N', 'T']",0.25
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_sand.wav,AY24,sand,"['S', 'AE1', 'N', 'D']",sa,"['S', 'AA1']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_fox.wav,AY24,fox,"['F', 'AA1', 'K', 'S']",flax,"['F', 'L', 'AE1', 'K', 'S']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_lamp.wav,AY24,lamp,"['L', 'AE1', 'M', 'P']",m,"['EH1', 'M']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_zoo.wav,TK02,zoo,"['Z', 'UW1']",leu,"['L', 'UW1']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_window.wav,AY24,window,"['W', 'IH1', 'N', 'D', 'OW0']",woyo do,"['W', 'OY1', 'OW0', 'D', 'UW1']",0.6
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_lock.wav,AY24,lock,"['L', 'AA1', 'K']",la,"['L', 'AA1']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_fox.wav,TK02,fox,"['F', 'AA1', 'K', 'S']",tout,"['T', 'AW1', 'T']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_sick.wav,TK02,sick,"['S', 'IH1', 'K']",sick,"['S', 'IH1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_rainbow.wav,AY24,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_socks.wav,TK02,socks,"['S', 'AA1', 'K', 'S']",tho,"['DH', 'OW1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_rainbow.wav,lt20,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",an bou,"['AE1', 'N', 'B', 'UW1']",0.6
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_leg.wav,TK02,leg,"['L', 'EH1', 'G']",lack,"['L', 'AE1', 'K']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_chick.wav,AY24,chick,"['CH', 'IH1', 'K']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_red.wav,AY24,red,"['R', 'EH1', 'D']",bread,"['B', 'R', 'EH1', 'D']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_fan.wav,AY24,fan,"['F', 'AE1', 'N']",there,"['DH', 'EH1', 'R']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_lock.wav,lt20,lock,"['L', 'AA1', 'K']",lack,"['L', 'AE1', 'K']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_red.wav,lt20,red,"['R', 'EH1', 'D']",rad,"['R', 'AE1', 'D']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_sun.wav,lt20,sun,"['S', 'AH1', 'N']",son,"['S', 'AH1', 'N']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_shoe.wav,AY24,shoe,"['SH', 'UW1']",sho,"['SH', 'OW1']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_window.wav,lt20,window,"['W', 'IH1', 'N', 'D', 'OW0']",window,"['W', 'IH1', 'N', 'D', 'OW0']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_ramp.wav,AY24,ramp,"['R', 'AE1', 'M', 'P']",ram,"['R', 'AE1', 'M']",0.25
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_ship.wav,TK02,ship,"['SH', 'IH1', 'P']",a ship,"['AH0', 'SH', 'IH1', 'P']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_ring.wav,lt20,ring,"['R', 'IH1', 'NG']",wen,"['W', 'EH1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_sick.wav,lt20,sick,"['S', 'IH1', 'K']",sick,"['S', 'IH1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_sand.wav,TK02,sand,"['S', 'AE1', 'N', 'D']",sand,"['S', 'AE1', 'N', 'D']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_one.wav,AY24,one,"['W', 'AH1', 'N']",one,"['W', 'AH1', 'N']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_leg.wav,AY24,leg,"['L', 'EH1', 'G']",blake,"['B', 'L', 'EY1', 'K']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_zoo.wav,lt20,zoo,"['Z', 'UW1']",o,['OW1'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_lock.wav,TK02,lock,"['L', 'AA1', 'K']",mock,"['M', 'AA1', 'K']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_chip.wav,TK02,chip,"['CH', 'IH1', 'P']",cip,"['S', 'IH1', 'P']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_ship.wav,AY24,ship,"['SH', 'IH1', 'P']",sharp,"['SH', 'AA1', 'R', 'P']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_ring.wav,AY24,ring,"['R', 'IH1', 'NG']",rain,"['R', 'EY1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_sick.wav,AY24,sick,"['S', 'IH1', 'K']",sick,"['S', 'IH1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_leg.wav,lt20,leg,"['L', 'EH1', 'G']",rank,"['R', 'AE1', 'NG', 'K']",1.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_socks.wav,AY24,socks,"['S', 'AA1', 'K', 'S']",sa,"['S', 'AA1']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_chip.wav,AY24,chip,"['CH', 'IH1', 'P']",chip,"['CH', 'IH1', 'P']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_zoo.wav,AY24,zoo,"['Z', 'UW1']",zeal,"['Z', 'IY1', 'L']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_thumb.wav,AY24,thumb,"['TH', 'AH1', 'M']",some,"['S', 'AH1', 'M']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_fox.wav,lt20,fox,"['F', 'AA1', 'K', 'S']",focxs,"['F', 'AA1', 'K', 'S', 'IH0', 'Z']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_ship.wav,lt20,ship,"['SH', 'IH1', 'P']",sop,"['S', 'AA1', 'P']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_chip.wav,lt20,chip,"['CH', 'IH1', 'P']",so,"['S', 'OW1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_rainbow.wav,TK02,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",rainbowh,"['R', 'EY1', 'N', 'B', 'AW0']",0.2
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_wing.wav,lt20,wing,"['W', 'IH1', 'NG']",ran,"['R', 'AE1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_shoe.wav,lt20,shoe,"['SH', 'UW1']",sho,"['SH', 'OW1']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1TK026participant_fan.wav,TK02,fan,"['F', 'AE1', 'N']",ban,"['B', 'AE1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_run.wav,lt20,run,"['R', 'AH1', 'N']",bod,"['B', 'AA1', 'D']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1lt202participant_thumb.wav,lt20,thumb,"['TH', 'AH1', 'M']",fam,"['F', 'AE1', 'M']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5F/K1AY244participant_sun.wav,AY24,sun,"['S', 'AH1', 'N']",san,"['S', 'AE1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_fan.wav,cb12,fan,"['F', 'AE1', 'N']",wen,"['W', 'EH1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_socks.wav,cb13,socks,"['S', 'AA1', 'K', 'S']",pr,"['P', 'R', 'IY1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_wing.wav,lt03,wing,"['W', 'IH1', 'NG']",reen,"['R', 'IY1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_sun.wav,lt03,sun,"['S', 'AH1', 'N']",farm,"['F', 'AA1', 'R', 'M']",1.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_shoe.wav,lt03,shoe,"['SH', 'UW1']",a,['AH0'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_zoo.wav,cb12,zoo,"['Z', 'UW1']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_leg.wav,cb12,leg,"['L', 'EH1', 'G']",wen,"['W', 'EH1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_window.wav,lt03,window,"['W', 'IH1', 'N', 'D', 'OW0']",lady o,"['L', 'EY1', 'D', 'IY0', 'OW1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_socks.wav,lt03,socks,"['S', 'AA1', 'K', 'S']",sos,"['S', 'AO1', 'S']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_fan.wav,cb13,fan,"['F', 'AE1', 'N']",farm,"['F', 'AA1', 'R', 'M']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_thumb.wav,lt03,thumb,"['TH', 'AH1', 'M']",an,"['AE1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_fan.wav,lt03,fan,"['F', 'AE1', 'N']",foon,"['F', 'UW1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_rainbow.wav,cb13,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",ra brown,"['R', 'AA1', 'B', 'R', 'AW1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_one.wav,cb12,one,"['W', 'AH1', 'N']",an,"['AE1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_shoe.wav,cb12,shoe,"['SH', 'UW1']",shi,"['SH', 'IY1']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_red.wav,lt03,red,"['R', 'EH1', 'D']",rat,"['R', 'AE1', 'T']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_thumb.wav,cb12,thumb,"['TH', 'AH1', 'M']",bam,"['B', 'AE1', 'M']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_one.wav,cb13,one,"['W', 'AH1', 'N']",n,"['EH1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_rock.wav,cb13,rock,"['R', 'AA1', 'K']",o,['OW1'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_window.wav,cb12,window,"['W', 'IH1', 'N', 'D', 'OW0']",randon,"['R', 'AE1', 'N', 'D', 'AH0', 'N']",0.8
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_red.wav,cb12,red,"['R', 'EH1', 'D']",rat,"['R', 'AE1', 'T']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_zoo.wav,cb13,zoo,"['Z', 'UW1']",sen,"['S', 'EH1', 'N']",1.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_zoo.wav,lt03,zoo,"['Z', 'UW1']",ar,"['AA1', 'R']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_thumb.wav,cb13,thumb,"['TH', 'AH1', 'M']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_ring.wav,cb13,ring,"['R', 'IH1', 'NG']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_shoe.wav,cb13,shoe,"['SH', 'UW1']",seein,"['S', 'IY1', 'IH0', 'N']",2.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_red.wav,cb13,red,"['R', 'EH1', 'D']",an,"['AE1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_ramp.wav,lt03,ramp,"['R', 'AE1', 'M', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_chip.wav,cb13,chip,"['CH', 'IH1', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_run.wav,cb13,run,"['R', 'AH1', 'N']",in,"['IH0', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_leg.wav,lt03,leg,"['L', 'EH1', 'G']",he la,"['HH', 'IY1', 'L', 'AA1']",1.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_lock.wav,lt03,lock,"['L', 'AA1', 'K']",la,"['L', 'AA1']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_lock.wav,cb12,lock,"['L', 'AA1', 'K']",wha,"['W', 'AA1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_sick.wav,cb12,sick,"['S', 'IH1', 'K']",sa,"['S', 'AA1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_rainbow.wav,cb12,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",rainbo,"['R', 'EY1', 'N', 'B', 'OW0']",0.2
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_fox.wav,cb12,fox,"['F', 'AA1', 'K', 'S']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_sick.wav,lt03,sick,"['S', 'IH1', 'K']",suc,"['S', 'AH1', 'K']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_ring.wav,cb12,ring,"['R', 'IH1', 'NG']",great,"['G', 'R', 'EY1', 'T']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_wing.wav,cb13,wing,"['W', 'IH1', 'NG']",rin,"['R', 'IH1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_fox.wav,cb13,fox,"['F', 'AA1', 'K', 'S']",ar,"['AA1', 'R']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_chick.wav,lt03,chick,"['CH', 'IH1', 'K']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_rock.wav,lt03,rock,"['R', 'AA1', 'K']",wha,"['W', 'AA1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_sand.wav,lt03,sand,"['S', 'AE1', 'N', 'D']",sonong,"['S', 'AA1', 'N', 'AA0', 'NG']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_fox.wav,lt03,fox,"['F', 'AA1', 'K', 'S']",a,['AH0'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_ring.wav,lt03,ring,"['R', 'IH1', 'NG']",in,"['IH0', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_one.wav,lt03,one,"['W', 'AH1', 'N']",ran,"['R', 'AE1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_sun.wav,cb13,sun,"['S', 'AH1', 'N']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_sun.wav,cb12,sun,"['S', 'AH1', 'N']",un,"['AH1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_ramp.wav,cb13,ramp,"['R', 'AE1', 'M', 'P']",rm,"['R', 'EH1', 'M']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_lamp.wav,lt03,lamp,"['L', 'AE1', 'M', 'P']",ore,"['AO1', 'R']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_lock.wav,cb13,lock,"['L', 'AA1', 'K']",a,['AH0'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_rainbow.wav,lt03,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",greenbow,"['G', 'R', 'IY1', 'N', 'B', 'OW0']",0.6
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_sand.wav,cb13,sand,"['S', 'AE1', 'N', 'D']",for,"['F', 'AO1', 'R']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_chip.wav,cb12,chip,"['CH', 'IH1', 'P']",starte,"['S', 'T', 'AA1', 'R', 'T']",1.6666666666666667
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_run.wav,lt03,run,"['R', 'AH1', 'N']",lan,"['L', 'AE1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_socks.wav,cb12,socks,"['S', 'AA1', 'K', 'S']",so,"['S', 'OW1']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_leg.wav,cb13,leg,"['L', 'EH1', 'G']",great,"['G', 'R', 'EY1', 'T']",1.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_ship.wav,cb13,ship,"['SH', 'IH1', 'P']",sor,"['S', 'AO1', 'R']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_sand.wav,cb12,sand,"['S', 'AE1', 'N', 'D']",fun,"['F', 'AH1', 'N']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb132participant_chick.wav,cb13,chick,"['CH', 'IH1', 'K']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_ship.wav,lt03,ship,"['SH', 'IH1', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1lt038participant_chip.wav,lt03,chip,"['CH', 'IH1', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3F/K1cb128participant_rock.wav,cb12,rock,"['R', 'AA1', 'K']",ra,"['R', 'AA1']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_window.wav,lm04,window,"['W', 'IH1', 'N', 'D', 'OW0']",manil,"['M', 'AE1', 'N', 'IH0', 'L']",0.8
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_ship.wav,lt02,ship,"['SH', 'IH1', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_window.wav,lt01,window,"['W', 'IH1', 'N', 'D', 'OW0']",winna,"['W', 'IH1', 'N', 'AH0']",0.4
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_red.wav,lt02,red,"['R', 'EH1', 'D']",rat,"['R', 'AE1', 'T']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_thumb.wav,lt02,thumb,"['TH', 'AH1', 'M']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_rainbow.wav,lt01,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",rainbough,"['R', 'EY1', 'N', 'B', 'AO2']",0.2
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_run.wav,lm04,run,"['R', 'AH1', 'N']",one,"['W', 'AH1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_sun.wav,lt02,sun,"['S', 'AH1', 'N']",sa,"['S', 'AA1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_ship.wav,lt01,ship,"['SH', 'IH1', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_lamp.wav,lt02,lamp,"['L', 'AE1', 'M', 'P']",lap,"['L', 'AE1', 'P']",0.25
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_sun.wav,lt01,sun,"['S', 'AH1', 'N']",sa,"['S', 'AA1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_red.wav,lm04,red,"['R', 'EH1', 'D']",red,"['R', 'EH1', 'D']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_sun.wav,lm04,sun,"['S', 'AH1', 'N']",son,"['S', 'AH1', 'N']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_rock.wav,lt02,rock,"['R', 'AA1', 'K']",roc,"['R', 'AA1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_chick.wav,lm04,chick,"['CH', 'IH1', 'K']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_sand.wav,lt01,sand,"['S', 'AE1', 'N', 'D']",sea and,"['S', 'IY1', 'AH0', 'N', 'D']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_ramp.wav,lt01,ramp,"['R', 'AE1', 'M', 'P']",tham,"['TH', 'AE1', 'M']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_fan.wav,lm04,fan,"['F', 'AE1', 'N']",fon,"['F', 'AO1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_leg.wav,lm04,leg,"['L', 'EH1', 'G']",rel,"['R', 'EH1', 'L']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_socks.wav,lt02,socks,"['S', 'AA1', 'K', 'S']",fact,"['F', 'AE1', 'K', 'T']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_fan.wav,lt01,fan,"['F', 'AE1', 'N']",fear,"['F', 'IH1', 'R']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_lamp.wav,lm04,lamp,"['L', 'AE1', 'M', 'P']",one,"['W', 'AH1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_chip.wav,lt01,chip,"['CH', 'IH1', 'P']",s,"['EH1', 'S']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_fox.wav,lt02,fox,"['F', 'AA1', 'K', 'S']",fox,"['F', 'AA1', 'K', 'S']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_fan.wav,lt02,fan,"['F', 'AE1', 'N']",sa,"['S', 'AA1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_ramp.wav,lm04,ramp,"['R', 'AE1', 'M', 'P']",ran,"['R', 'AE1', 'N']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_sick.wav,lt02,sick,"['S', 'IH1', 'K']",sick,"['S', 'IH1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_fox.wav,lt01,fox,"['F', 'AA1', 'K', 'S']",far,"['F', 'AA1', 'R']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_zoo.wav,lt02,zoo,"['Z', 'UW1']",sod,"['S', 'AA1', 'D']",1.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_fox.wav,lm04,fox,"['F', 'AA1', 'K', 'S']",rocks,"['R', 'AA1', 'K', 'S']",0.25
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_shoe.wav,lm04,shoe,"['SH', 'UW1']",jo,"['JH', 'OW1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_rock.wav,lt01,rock,"['R', 'AA1', 'K']",wha,"['W', 'AA1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_zoo.wav,lm04,zoo,"['Z', 'UW1']",su,"['S', 'UW1']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_lock.wav,lt01,lock,"['L', 'AA1', 'K']",o,['OW1'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_one.wav,lm04,one,"['W', 'AH1', 'N']",when,"['W', 'EH1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_chip.wav,lm04,chip,"['CH', 'IH1', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_rainbow.wav,lm04,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_zoo.wav,lt01,zoo,"['Z', 'UW1']",sin,"['S', 'IH1', 'N']",1.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_wing.wav,lt01,wing,"['W', 'IH1', 'NG']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_sick.wav,lm04,sick,"['S', 'IH1', 'K']",so,"['S', 'OW1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_ramp.wav,lt02,ramp,"['R', 'AE1', 'M', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_leg.wav,lt02,leg,"['L', 'EH1', 'G']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_chip.wav,lt02,chip,"['CH', 'IH1', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_rainbow.wav,lt02,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",and m,"['AH0', 'N', 'D', 'EH1', 'M']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_chick.wav,lt02,chick,"['CH', 'IH1', 'K']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_one.wav,lt01,one,"['W', 'AH1', 'N']",o,['OW1'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_ring.wav,lt01,ring,"['R', 'IH1', 'NG']",wind,"['W', 'AY1', 'N', 'D']",1.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_ring.wav,lt02,ring,"['R', 'IH1', 'NG']",aly,"['EY1', 'L', 'IY0']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_sand.wav,lm04,sand,"['S', 'AE1', 'N', 'D']",frand,"['F', 'R', 'AE1', 'N', 'D']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_shoe.wav,lt01,shoe,"['SH', 'UW1']",still,"['S', 'T', 'IH1', 'L']",2.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_run.wav,lt02,run,"['R', 'AH1', 'N']",i,['AY1'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_sick.wav,lt01,sick,"['S', 'IH1', 'K']",se,"['S', 'AW2', 'TH', 'IY1', 'S', 'T']",1.6666666666666667
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_one.wav,lt02,one,"['W', 'AH1', 'N']",why,"['W', 'AY1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_thumb.wav,lm04,thumb,"['TH', 'AH1', 'M']",m,"['EH1', 'M']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_wing.wav,lm04,wing,"['W', 'IH1', 'NG']",n,"['EH1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_red.wav,lt01,red,"['R', 'EH1', 'D']",red,"['R', 'EH1', 'D']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_rock.wav,lm04,rock,"['R', 'AA1', 'K']",a,['AH0'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_shoe.wav,lt02,shoe,"['SH', 'UW1']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_chick.wav,lt01,chick,"['CH', 'IH1', 'K']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_leg.wav,lt01,leg,"['L', 'EH1', 'G']",like,"['L', 'AY1', 'K']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_lamp.wav,lt01,lamp,"['L', 'AE1', 'M', 'P']",dam,"['D', 'AE1', 'M']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_run.wav,lt01,run,"['R', 'AH1', 'N']",what,"['W', 'AH1', 'T']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_ring.wav,lm04,ring,"['R', 'IH1', 'NG']",link,"['L', 'IH1', 'NG', 'K']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_sand.wav,lt02,sand,"['S', 'AE1', 'N', 'D']",sort,"['S', 'AO1', 'R', 'T']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lm045participant_lock.wav,lm04,lock,"['L', 'AA1', 'K']",jack,"['JH', 'AE1', 'K']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt021participant_lock.wav,lt02,lock,"['L', 'AA1', 'K']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_socks.wav,lt01,socks,"['S', 'AA1', 'K', 'S']",thought,"['TH', 'AO1', 'T']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/3M/K1lt017participant_thumb.wav,lt01,thumb,"['TH', 'AH1', 'M']",from,"['F', 'R', 'AH1', 'M']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_fox.wav,lt22,fox,"['F', 'AA1', 'K', 'S']",flocks,"['F', 'L', 'AA1', 'K', 'S']",0.25
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_ship.wav,lt22,ship,"['SH', 'IH1', 'P']",shap,"['SH', 'AE1', 'P']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_lamp.wav,lt22,lamp,"['L', 'AE1', 'M', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_red.wav,KM24,red,"['R', 'EH1', 'D']",reb,"['R', 'EH1', 'B']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_fox.wav,KM24,fox,"['F', 'AA1', 'K', 'S']",a,['AH0'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_rock.wav,KM24,rock,"['R', 'AA1', 'K']",walk,"['W', 'AO1', 'K']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_socks.wav,KM24,socks,"['S', 'AA1', 'K', 'S']",sot,"['S', 'AO1', 'T']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_wing.wav,cc03,wing,"['W', 'IH1', 'NG']",a wan,"['AH0', 'W', 'AA1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_window.wav,cc03,window,"['W', 'IH1', 'N', 'D', 'OW0']",and oun,"['AH0', 'N', 'D', 'AW1', 'N']",0.8
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_leg.wav,lt22,leg,"['L', 'EH1', 'G']",way,"['W', 'EY1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_rainbow.wav,cc03,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",wimbg,"['W', 'IH1', 'M']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_ring.wav,lt22,ring,"['R', 'IH1', 'NG']",gren,"['G', 'R', 'EH1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_wing.wav,lt22,wing,"['W', 'IH1', 'NG']",mi,"['M', 'IY1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_chip.wav,cc03,chip,"['CH', 'IH1', 'P']",t,"['T', 'IY1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_one.wav,lt22,one,"['W', 'AH1', 'N']",wine,"['W', 'AY1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_chip.wav,lt22,chip,"['CH', 'IH1', 'P']",chap,"['CH', 'AE1', 'P']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_fan.wav,cc03,fan,"['F', 'AE1', 'N']",five,"['F', 'AY1', 'V']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_lamp.wav,KM24,lamp,"['L', 'AE1', 'M', 'P']",lamp,"['L', 'AE1', 'M', 'P']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_socks.wav,lt22,socks,"['S', 'AA1', 'K', 'S']",sock,"['S', 'AA1', 'K']",0.25
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_lock.wav,cc03,lock,"['L', 'AA1', 'K']",ly,"['L', 'AY1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_rock.wav,cc03,rock,"['R', 'AA1', 'K']",rock,"['R', 'AA1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_sun.wav,lt22,sun,"['S', 'AH1', 'N']",an,"['AE1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_ramp.wav,KM24,ramp,"['R', 'AE1', 'M', 'P']",ramp,"['R', 'AE1', 'M', 'P']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_run.wav,KM24,run,"['R', 'AH1', 'N']",winn,"['W', 'IH1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_ring.wav,cc03,ring,"['R', 'IH1', 'NG']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_lamp.wav,cc03,lamp,"['L', 'AE1', 'M', 'P']",wamp,"['W', 'AA1', 'M', 'P']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_zoo.wav,KM24,zoo,"['Z', 'UW1']",zo,"['Z', 'OW1']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_sun.wav,cc03,sun,"['S', 'AH1', 'N']",san,"['S', 'AE1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_ramp.wav,lt22,ramp,"['R', 'AE1', 'M', 'P']",ram,"['R', 'AE1', 'M']",0.25
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_zoo.wav,lt22,zoo,"['Z', 'UW1']",zell,"['Z', 'EH1', 'L']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_ring.wav,KM24,ring,"['R', 'IH1', 'NG']",rin,"['R', 'IH1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_thumb.wav,cc03,thumb,"['TH', 'AH1', 'M']",on,"['AA1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_zoo.wav,cc03,zoo,"['Z', 'UW1']",zea,"['Z', 'IY1']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_fan.wav,lt22,fan,"['F', 'AE1', 'N']",van,"['V', 'AE1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_window.wav,KM24,window,"['W', 'IH1', 'N', 'D', 'OW0']",when thou,"['W', 'EH1', 'N', 'DH', 'AW1']",0.6
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_red.wav,cc03,red,"['R', 'EH1', 'D']",an,"['AE1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_fan.wav,KM24,fan,"['F', 'AE1', 'N']",sam,"['S', 'AE1', 'M']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_window.wav,lt22,window,"['W', 'IH1', 'N', 'D', 'OW0']",and down,"['AH0', 'N', 'D', 'D', 'AW1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_ship.wav,cc03,ship,"['SH', 'IH1', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_leg.wav,cc03,leg,"['L', 'EH1', 'G']",i,['AY1'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_run.wav,cc03,run,"['R', 'AH1', 'N']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_wing.wav,KM24,wing,"['W', 'IH1', 'NG']",wing,"['W', 'IH1', 'NG']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_one.wav,KM24,one,"['W', 'AH1', 'N']",one,"['W', 'AH1', 'N']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_shoe.wav,lt22,shoe,"['SH', 'UW1']",char,"['CH', 'AA1', 'R']",1.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_ramp.wav,cc03,ramp,"['R', 'AE1', 'M', 'P']",rap,"['R', 'AE1', 'P']",0.25
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_rainbow.wav,KM24,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",i bow,"['AY1', 'B', 'AW1']",0.8
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_rock.wav,lt22,rock,"['R', 'AA1', 'K']",whalk,"['W', 'AO1', 'K']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_rainbow.wav,lt22,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",wen bow,"['W', 'EH1', 'N', 'B', 'AW1']",0.6
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_lock.wav,lt22,lock,"['L', 'AA1', 'K']",block,"['B', 'L', 'AA1', 'K']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_sun.wav,KM24,sun,"['S', 'AH1', 'N']",fan,"['F', 'AE1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_sand.wav,cc03,sand,"['S', 'AE1', 'N', 'D']",san,"['S', 'AE1', 'N']",0.25
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_leg.wav,KM24,leg,"['L', 'EH1', 'G']",lake,"['L', 'EY1', 'K']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_red.wav,lt22,red,"['R', 'EH1', 'D']",red,"['R', 'EH1', 'D']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_sand.wav,lt22,sand,"['S', 'AE1', 'N', 'D']",sand,"['S', 'AE1', 'N', 'D']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_sand.wav,KM24,sand,"['S', 'AE1', 'N', 'D']",san,"['S', 'AE1', 'N']",0.25
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_sick.wav,KM24,sick,"['S', 'IH1', 'K']",si,"['S', 'IY1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_thumb.wav,KM24,thumb,"['TH', 'AH1', 'M']",hum,"['HH', 'AH1', 'M']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_thumb.wav,lt22,thumb,"['TH', 'AH1', 'M']",bam,"['B', 'AE1', 'M']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_shoe.wav,KM24,shoe,"['SH', 'UW1']",sho,"['SH', 'OW1']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_shoe.wav,cc03,shoe,"['SH', 'UW1']",sa,"['S', 'AA1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1lt225participant_sick.wav,lt22,sick,"['S', 'IH1', 'K']",sock,"['S', 'AA1', 'K']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_socks.wav,cc03,socks,"['S', 'AA1', 'K', 'S']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1cc035participant_one.wav,cc03,one,"['W', 'AH1', 'N']",i,['AY1'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_lock.wav,KM24,lock,"['L', 'AA1', 'K']",loc,"['L', 'AA1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_ship.wav,KM24,ship,"['SH', 'IH1', 'P']",shap,"['SH', 'AE1', 'P']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/5M/K1KM243participant_chick.wav,KM24,chick,"['CH', 'IH1', 'K']",a chank,"['AH0', 'CH', 'AE1', 'NG', 'K']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_fan.wav,lt33,fan,"['F', 'AE1', 'N']",fiv,"['F', 'IH1', 'V']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_lamp.wav,so10,lamp,"['L', 'AE1', 'M', 'P']",here,"['HH', 'IY1', 'R']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_chick.wav,so10,chick,"['CH', 'IH1', 'K']",ji,"['JH', 'IY1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_lamp.wav,dd08,lamp,"['L', 'AE1', 'M', 'P']",lamp,"['L', 'AE1', 'M', 'P']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_red.wav,so10,red,"['R', 'EH1', 'D']",great,"['G', 'R', 'EY1', 'T']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_lock.wav,so10,lock,"['L', 'AA1', 'K']",a,['AH0'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_fox.wav,so10,fox,"['F', 'AA1', 'K', 'S']",fox,"['F', 'AA1', 'K', 'S']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_chip.wav,lt33,chip,"['CH', 'IH1', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_sand.wav,so10,sand,"['S', 'AE1', 'N', 'D']",sa,"['S', 'AA1']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_rainbow.wav,so10,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",vanbo,"['V', 'AE1', 'N', 'B', 'OW0']",0.6
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_lock.wav,dd08,lock,"['L', 'AA1', 'K']",lock,"['L', 'AA1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_thumb.wav,lt33,thumb,"['TH', 'AH1', 'M']",fab,"['F', 'AE1', 'B']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_one.wav,lt33,one,"['W', 'AH1', 'N']",ine,"['AY1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_fan.wav,so10,fan,"['F', 'AE1', 'N']",fe,"['F', 'EY1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_sun.wav,so10,sun,"['S', 'AH1', 'N']",sen,"['S', 'EH1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_run.wav,dd08,run,"['R', 'AH1', 'N']",line,"['L', 'AY1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_shoe.wav,lt33,shoe,"['SH', 'UW1']",sill,"['S', 'IH1', 'L']",1.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_run.wav,so10,run,"['R', 'AH1', 'N']",n,"['EH1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_chip.wav,so10,chip,"['CH', 'IH1', 'P']",chip,"['CH', 'IH1', 'P']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_sick.wav,lt33,sick,"['S', 'IH1', 'K']",fack,"['F', 'AE1', 'K']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_sick.wav,dd08,sick,"['S', 'IH1', 'K']",sik,"['S', 'IH1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_rainbow.wav,dd08,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_leg.wav,so10,leg,"['L', 'EH1', 'G']",mo,"['M', 'OW1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_fan.wav,dd08,fan,"['F', 'AE1', 'N']",van,"['V', 'AE1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_sun.wav,lt33,sun,"['S', 'AH1', 'N']",sidin,"['S', 'AY1', 'D', 'AH0', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_ramp.wav,lt33,ramp,"['R', 'AE1', 'M', 'P']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_window.wav,dd08,window,"['W', 'IH1', 'N', 'D', 'OW0']",wendow,"['W', 'EH1', 'N', 'D', 'OW0']",0.2
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_sand.wav,dd08,sand,"['S', 'AE1', 'N', 'D']",sand,"['S', 'AE1', 'N', 'D']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_window.wav,lt33,window,"['W', 'IH1', 'N', 'D', 'OW0']",weady now,"['W', 'EH1', 'D', 'IY0', 'N', 'AW1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_one.wav,dd08,one,"['W', 'AH1', 'N']",i,['AY1'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_ring.wav,lt33,ring,"['R', 'IH1', 'NG']",ready,"['R', 'EH1', 'D', 'IY0']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_shoe.wav,dd08,shoe,"['SH', 'UW1']",shil,"['SH', 'IH1', 'L']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_leg.wav,dd08,leg,"['L', 'EH1', 'G']",lade,"['L', 'EY1', 'D']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_rock.wav,dd08,rock,"['R', 'AA1', 'K']",rock,"['R', 'AA1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_red.wav,lt33,red,"['R', 'EH1', 'D']",rat,"['R', 'AE1', 'T']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_thumb.wav,dd08,thumb,"['TH', 'AH1', 'M']",pam,"['P', 'AE1', 'M']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_one.wav,so10,one,"['W', 'AH1', 'N']",why,"['W', 'AY1']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_ramp.wav,so10,ramp,"['R', 'AE1', 'M', 'P']",n,"['EH1', 'N']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_rainbow.wav,lt33,rainbow,"['R', 'EY1', 'N', 'B', 'OW2']",raybow,"['R', 'EY1', 'B', 'OW2']",0.2
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_socks.wav,lt33,socks,"['S', 'AA1', 'K', 'S']",thoght,"['TH', 'AA1', 'T']",0.75
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_shoe.wav,so10,shoe,"['SH', 'UW1']",shil,"['SH', 'IH1', 'L']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_zoo.wav,so10,zoo,"['Z', 'UW1']",sail,"['S', 'EY1', 'L']",1.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_rock.wav,lt33,rock,"['R', 'AA1', 'K']",rock,"['R', 'AA1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_zoo.wav,dd08,zoo,"['Z', 'UW1']",al,"['AE1', 'L']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_leg.wav,lt33,leg,"['L', 'EH1', 'G']",lek,"['L', 'EH1', 'K']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_fox.wav,dd08,fox,"['F', 'AA1', 'K', 'S']",fox,"['F', 'AA1', 'K', 'S']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_ship.wav,lt33,ship,"['SH', 'IH1', 'P']",sik,"['S', 'IH1', 'K']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_ship.wav,so10,ship,"['SH', 'IH1', 'P']",ship,"['SH', 'IH1', 'P']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_ship.wav,dd08,ship,"['SH', 'IH1', 'P']",ship,"['SH', 'IH1', 'P']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_chick.wav,dd08,chick,"['CH', 'IH1', 'K']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_thumb.wav,so10,thumb,"['TH', 'AH1', 'M']",fom,"['F', 'AA1', 'M']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_ring.wav,dd08,ring,"['R', 'IH1', 'NG']",ring,"['R', 'IH1', 'NG']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_sick.wav,so10,sick,"['S', 'IH1', 'K']",sick,"['S', 'IH1', 'K']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_zoo.wav,lt33,zoo,"['Z', 'UW1']",for,"['F', 'AO1', 'R']",1.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_ring.wav,so10,ring,"['R', 'IH1', 'NG']",ring,"['R', 'IH1', 'NG']",0.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_run.wav,lt33,run,"['R', 'AH1', 'N']",ran,"['R', 'AE1', 'N']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_red.wav,dd08,red,"['R', 'EH1', 'D']",ran,"['R', 'AE1', 'N']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_sand.wav,lt33,sand,"['S', 'AE1', 'N', 'D']",fom,"['F', 'AA1', 'M']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_chick.wav,lt33,chick,"['CH', 'IH1', 'K']",chuck,"['CH', 'AH1', 'K']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_lamp.wav,lt33,lamp,"['L', 'AE1', 'M', 'P']",i,['AY1'],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_fox.wav,lt33,fox,"['F', 'AA1', 'K', 'S']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_sun.wav,dd08,sun,"['S', 'AH1', 'N']",side,"['S', 'AY1', 'D']",0.6666666666666666
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_chip.wav,dd08,chip,"['CH', 'IH1', 'P']",shi,"['SH', 'IY1']",1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_window.wav,so10,window,"['W', 'IH1', 'N', 'D', 'OW0']",grenda,"['G', 'R', 'EH1', 'N', 'D', 'AH0']",0.8
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_wing.wav,so10,wing,"['W', 'IH1', 'NG']",ring,"['R', 'IH1', 'NG']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1dd084participant_socks.wav,dd08,socks,"['S', 'AA1', 'K', 'S']",chok,"['CH', 'AA1', 'K']",0.5
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1so104participant_rock.wav,so10,rock,"['R', 'AA1', 'K']",,[],1.0
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_wing.wav,lt33,wing,"['W', 'IH1', 'NG']",wi,"['W', 'IH1']",0.3333333333333333
+/home/cogsci-lasrlab/Documents/CSS_Capstone/KT1_data/4F/K1lt332participant_lock.wav,lt33,lock,"['L', 'AA1', 'K']",ila,"['IY1', 'L', 'AH0']",1.0
