@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to improve transcription accuracy of automatic speech recognition (ASR) and forced alignment systems (specifically Montreal Forced Aligner and Charsiu) to child speech, and examine the overall efficiency of using these tools for research purposes.
+This project aims to improve transcription accuracy of automatic speech recognition (ASR) and forced alignment systems (specifically Montreal Forced Aligner) to child speech, and examine the overall efficiency of using these tools for research purposes.
 
 This a graduate capstone project for the Compuational Social Science M.S. program.
 
