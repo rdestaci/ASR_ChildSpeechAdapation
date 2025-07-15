@@ -24,7 +24,9 @@ To adapt Montreal Forced Aligner, we use the model's `mfa adapt` workflow. More 
 
 ## Results and Evaluation
 
-## Further Directions
+Fine-tuning the wav2vec2-base-960h ASR model to improve performance on child speech proved challenging, largely due to the limited size of the training dataset and the need for more extensive training. Despite these efforts, a substantial performance gap between child and adult speech remained, indicating that significantly more data and training time are required to achieve more robust performance for child speech. Susceptibility to frequency biases in the training data—-driven by the overrepresentation of certain phones or phonological patterns—-affects predictions across both age groups, pointing to a broader constraint of the model rather than an age-related shortcoming.
+
+Forced alignment efforts resulted in similar shortcomings. While dictionary adaptation shows some promise for future work, neither acoustic model adaptation nor dictionary adaptation resulted in marked improvement over the default acoustic model or dictionary for forced alignment of child speech.
 
 ## License
 
