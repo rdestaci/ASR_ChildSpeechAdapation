@@ -28,6 +28,8 @@ Fine-tuning the wav2vec2-base-960h ASR model to improve performance on child spe
 
 Forced alignment efforts resulted in similar shortcomings. While dictionary adaptation shows some promise for future work, neither acoustic model adaptation nor dictionary adaptation resulted in marked improvement over the default acoustic model or dictionary for forced alignment of child speech.
 
+The full analysis and discussion of results are available in `final_report.pdf`.
+
 ## License
 
 [MIT License](https://opensource.org/license/mit/)
